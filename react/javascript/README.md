@@ -5,8 +5,10 @@ JavaScript variant of the KRNL React + Vite template. For full docs see `react/t
 ## Quick Start
 
 ```bash
-npx degit <repo>#react/javascript my-krnl-app
+npx degit react/javascript my-krnl-app
+
 cd my-krnl-app
+
 npm install
 npm run dev
 ```

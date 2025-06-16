@@ -11,12 +11,12 @@ A production-ready Next.js template pre-wired for the **KRNL SDK**.
 
 1. Generate the project (fork / template / degit):
    ```bash
-   npx degit <repo>#nextjs/typescript my-krnl-app
+   npx degit nextjs/typescript my-krnl-app
    cd my-krnl-app
    ```
 2. Install deps
    ```bash
-   npm install        # or pnpm install / yarn
+   npm install # or pnpm install / yarn
    ```
 3. Configure KRNL values in `.env` (defaults are already included).
 4. Launch dev server

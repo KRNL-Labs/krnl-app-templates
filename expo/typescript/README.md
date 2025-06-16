@@ -9,8 +9,8 @@ Build cross-platform mobile dApps with **Expo** + the **KRNL SDK**.
 ## ⚡️ Quick Start
 
 ```bash
-# Clone / use template / degit
-npx degit <repo>#expo/typescript my-krnl-app
+npx degit expo/typescript my-krnl-app
+
 cd my-krnl-app
 
 npm install           # install packages
@@ -61,6 +61,5 @@ Optional: Xcode / Android Studio for local simulators
 
 Most problems are Expo-standard. If you hit permission or module errors, see the “Troubleshooting” section in the root `README`.
 
----
 
-MIT License
+

@@ -12,8 +12,10 @@ A production-ready Next.js template pre-wired for the **KRNL SDK**.
 ## ✨ Quick Start
 
 ```bash
-npx degit <repo>#nextjs/javascript my-krnl-app
+npx degit nextjs/javascript my-krnl-app
+
 cd my-krnl-app
+
 npm install
 npm run dev
 ```

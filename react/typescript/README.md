@@ -10,8 +10,10 @@ A minimal React + Vite template with first-class **KRNL** integration.
 ## 🚀 Getting Started
 
 ```bash
-npx degit <repo>#react/typescript my-krnl-app
+npx degit react/typescript my-krnl-app
+
 cd my-krnl-app
+
 npm install
 npm run dev
 ```
@@ -62,7 +64,7 @@ First, run the development server:
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:5173](http://localhost:5173) with your browser to see the result.
 
 You can start editing the application by modifying files in the `src` directory. The page auto-updates as you edit the files.
 
